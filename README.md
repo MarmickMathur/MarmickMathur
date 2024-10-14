@@ -1,7 +1,4 @@
-<p align=”center”>
-  <img width="1200" alt="README BANNER" src="https://github.com/Ratul-Saha-003/Ratul-Saha-003/assets/118868981/e1c56bdd-9200-46bd-966b-a01332078864">
 
-</p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Marmick Mathur here!
 ==================================================================================================================================
