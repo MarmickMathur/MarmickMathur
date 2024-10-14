@@ -27,20 +27,9 @@ Socials
 --------------------
 
 <p align="left">
-  <a href="https://github.com/Ratul-Saha-003/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ratul-saha-047066254/">
+  <a href="https://www.linkedin.com/in/marmick-mathur-20b406256/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
-Badges
---------------------
-<div markdown="1" style="display: flex;" align="left">
-  
-  [![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Saha-003&show_icons=true&theme=github_dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-</div>
-
-![](https://komarev.com/ghpvc/?username=Ratul-Saha-003&label=Page+Visitors&style=for-the-badge)
